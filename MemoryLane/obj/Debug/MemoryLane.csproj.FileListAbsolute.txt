@@ -1,0 +1,15 @@
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\bin\Debug\MemoryLane.exe.config
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\bin\Debug\MemoryLane.exe
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\bin\Debug\MemoryLane.pdb
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\obj\Debug\MemoryLane.csprojAssemblyReference.cache
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\obj\Debug\MainWindow.g.cs
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\obj\Debug\App.g.cs
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\obj\Debug\MemoryLane_MarkupCompile.cache
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\obj\Debug\MemoryLane_MarkupCompile.lref
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\obj\Debug\MainWindow.baml
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\obj\Debug\MemoryLane.g.resources
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\obj\Debug\MemoryLane.Properties.Resources.resources
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\obj\Debug\MemoryLane.csproj.GenerateResource.cache
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\obj\Debug\MemoryLane.csproj.CoreCompileInputs.cache
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\obj\Debug\MemoryLane.exe
+C:\Users\Nazir Ahmed\Documents\Work\CSharp Engineering 40\Project 1\MemoryLane\MemoryLane\obj\Debug\MemoryLane.pdb
