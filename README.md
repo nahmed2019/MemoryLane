@@ -17,7 +17,8 @@ The way this game was created is by using C# in a WPF application. I mainly used
 1.
 2.
 
-# Further improvements that can be implemented:
-1. Add a Timer
-2. Add lives which decreases everytime the cursor touches the wall.
-3. Add an object that the user can use to naviagte through the maze.
+# Ongoing improvements:
+1. Set a boundary for the screen so the user is not able to move the mouse from the game window.
+2. Add a Timer 
+3. Add lives which decreases everytime the cursor touches the wall.
+4. Add an object that the user can use to naviagte through the maze.
